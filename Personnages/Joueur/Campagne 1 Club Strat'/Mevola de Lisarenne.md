@@ -6,7 +6,7 @@
 ## Informations personnelles
 
 ### Nom Complet
-Mevola de Lisarenne
+Mevola Galadrea Kainé Julia de Lisarenne
 
 ### Pronoms
 Elle/Elle
@@ -41,7 +41,7 @@ Vivante
 Vivante
 
 ### Résidence
-La Route; Domaine De Lisarenne, Landgrave de Falefone, Empire Kinfordien (occasionel); Académie arcanique de Tricaren , Empire Kinfordien (anciennement).
+La route; Domaine De Lisarenne, Landgrave de Falefone, Empire Kinfordien (occasionel); Académie arcanique de Tricaren , Empire Kinfordien (anciennement).
 
 ### Occupation
 Barde, Aventurière, Héritière, Savante
@@ -71,26 +71,53 @@ Il y a bien des années, une femme a fait quelque chose qui a provoqué le courr
 Mevola apparait comme une femme humaine d'une trentaine d'année, à la peau pâle et aux cheveux violets. Elle a un visage au traits légèrements marqués. Elle mesure 1m72. Ses yeux sont de la même couleur que ses cheveux. Elle porte le plus souvent une tenue de voyage noire jaune et brune. Lorsqu'elle fait des représentations, elle est vétue d'une robe rouge et jaune.
 SPOILERS :
 Sous sa véritable apparence, Mevola arbore une double paire de corne violette asortie à sa peau. Sa chevelure est d'un blanc cendré et ses yeux d'un rouge uniforme. Elle porte le plus souvent un maque en plus de ses vêtements habituels.
+
 ### Personnalité
 Mevola apparait comme une femme charmante, sociable et mystérieuse qui cache une personnalité beaucoup plus froide et méthodique. Elle est intelligente et sait mentir à autrui tout en présentant un visage d’ange. Elle est aussi une musicienne douée au luth, à la flute de pan, et au chant. Cependant, elle peut s’énerver très vite lorsqu’elle n’est pas (et même parfois lorsqu’elle est) dans son rôle. Elle a un fort penchant pour la boisson et une tendance à l’apathie vis-à-vis des problèmes des autres. Cependant, si elle s’investit dans la vie d’autrui, elle aidera avec un grand machiavélisme au dépens de l’avis de la personne concerné. De façon générale, elle essaye de régler ses problèmes de la façon la plus efficace possible.
 
 ## Capacités
-
+Magie.
+Luth, flute, tambours, chant.
+Conaissances historiques, arcaniques
 ## Relations
+
 ### Famille
+Emile de Lisarenne (Père)
+Yonnah de Lisarenne (Mère)
+??? de Lisarenne (Soeur)
+
 ### Relations amoureuses
+Aucune
+
 ### Amis
+Anémone Tirenbout, Mage (Transmutation), ancienne camarade d'académie et musicienne à ses heures perdues.
+William de Lotwatch, Warlock, ancien camarade d'académie et amateur d'occulte.
+Tressa Fallenpie, Halfling, Mage (Evocation), une archiviste à la bibliothèque de l'académie.
+??? de Lisarenne (meilleure amie)
+
 ### Alliés et Affiliations
+Académie arcanique de Tricaren (en qualité d'ancienne élève).
+Maison de Lisarenne (héritière)
+Empire Kinfordien (noble mineure)
+
 ### Ennemis
+Royaumme de Whiteford (en qualité de noble de l'Empire)
+
 ### Autres relations
+Malicieux (Barde avec qui elle a entretenu une petite rivalité)
+Aolis Miséliandre, sa servante lorsqu'elle vivait au chateau.
 
 ## Arbre Généalogique
 ```mermaid
 graph TD
-    ?[?] --> ?x!( )
-    ![!] --> ?x!
+    ?!!![...] --> ?z!( )
+    ?!![Pyron de Lisarenne] --> ?y!( )
+    ?z! --> !??[Galadrea de Lisarenne] --> ?y!
+    ?y! --> ?[Emile de Lisarenne] --> ?x!( )
+    ![Yonnah de Lisarenne] --> ?x!
 
-    ?x! --> ?![?!]
+    ?x! --> ?![Mevola de Lisarenne]
+    ?x! --> !![??? de Lisarenne]
 ```
 
 ## Citations
