@@ -103,7 +103,7 @@ Aucune
 ### Amis
 Anémone Tirenbout, Mage (Transmutation), ancienne camarade d'académie et musicienne à ses heures perdues.
 
-William de Lotwatch, Warlock, ancien camarade d'académie et amateur d'occulte.
+William de Lotwatch, Warlock (Great Old One, Pact of the Tome), ancien camarade d'académie et amateur d'occulte.
 
 Tressa Fallenpie, Halfling, Mage (Evocation), une archiviste à la bibliothèque de l'académie.
 
@@ -120,7 +120,7 @@ Empire Kinfordien (noble mineure)
 Royaumme de Whiteford (en qualité de noble de l'Empire)
 
 ### Autres relations
-Malicieux (Barde avec qui elle a entretenu une petite rivalité)
+Malicieux (Barde venant des colonies avec qui elle a entretenu une petite rivalité)
 
 Aolis Miséliandre, sa servante lorsqu'elle vivait au chateau.
 
